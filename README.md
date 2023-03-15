@@ -12,7 +12,7 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Ceccas-terraform" width="40" height="40"/> </a> <!--   --> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Ceccas-linux" width="40" height="40"/> </a> <!--   -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Ceccas-bash" width="40" height="40"/> </a> <!--   -->
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Ceccas-kubernetes" width="40" height="40"/> </a> <!--   -->
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Ceccas-kubernetes" width="40" height="40"/> </a> <!--   -->
 </p>
 
 ## Socials
