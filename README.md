@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, Welcome 😄</h1>
 
 ### About me:
-* 💻 Working as an intern at [Darede](https://www.darede.com.br/)
+* 💻 Working as Cloud Infrastructure Analyst Jr at [Darede](https://www.darede.com.br/)
 * ☁  Computer Network Technician
 * 🏅 [AWS Certified](https://www.credly.com/users/gabrieltorres)
 
