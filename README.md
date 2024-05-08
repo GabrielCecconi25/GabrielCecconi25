@@ -5,7 +5,6 @@
     <li>💻 Working as Cloud Infrastructure Analyst Jr at <a href="https://darede.com.br/">Darede</a></li>
     <li>👨‍💻 Studying Systems Analysis and Development at <a href="https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas">Impacta</a></li>
     <li>☁  Computer Network Technician</li>
-    <li></li>
     <li>🏅 <a href="https://www.credly.com/users/gabrieltorres">AWS Certified</a></li>
 </ul>
 
